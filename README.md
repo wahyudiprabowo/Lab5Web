@@ -14,5 +14,20 @@ Laporan Pratikum 5
 
 ![image](https://user-images.githubusercontent.com/81431392/115740931-25ab0280-a344-11eb-8467-5c8c812eb7b8.png)
 
-3. Pemakaian method dalam objek
+3. Pemakaian method dalam objek :
 
+![image](https://user-images.githubusercontent.com/81431392/115788190-265d8c00-a378-11eb-8ea1-98a6edf65de1.png)
+
+4. Pemakaian Prompt :
+
+![image](https://user-images.githubusercontent.com/81431392/115789012-4fcae780-a379-11eb-9b49-6a0177d05e5d.png)
+
+dan hasilnya :
+
+![image](https://user-images.githubusercontent.com/81431392/115789111-6f621000-a379-11eb-9008-e2f0a27e07f1.png)
+
+5. Pembuatan fungsi dan cara pemanggilannya : 
+
+![image](https://user-images.githubusercontent.com/81431392/115789668-57d75700-a37a-11eb-9bf7-7527aab3cd68.png)
+
+6. Dasar pemograman di Javascript
