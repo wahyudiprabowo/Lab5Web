@@ -30,4 +30,47 @@ dan hasilnya :
 
 ![image](https://user-images.githubusercontent.com/81431392/115789668-57d75700-a37a-11eb-9bf7-7527aab3cd68.png)
 
-6. Dasar pemograman di Javascript
+6. Dasar pemograman di Javascript contoh Operasi Dasar Aritmatika :
+
+![image](https://user-images.githubusercontent.com/81431392/115905217-a3414200-a41a-11eb-8004-e5b2a6ccd634.png)
+
+dan hasilnya :
+
+![image](https://user-images.githubusercontent.com/81431392/115905044-670de180-a41a-11eb-8469-75cbbddbb17f.png)
+
+7. Seleksi kondisi (if,else) :
+
+![image](https://user-images.githubusercontent.com/81431392/115906057-de904080-a41b-11eb-96cf-6afa01e48bfa.png)
+
+jika nilai lebih dari 60 maka hasilnya lulus :
+
+![image](https://user-images.githubusercontent.com/81431392/115906527-79891a80-a41c-11eb-8d3e-9b6eb9866299.png)
+
+dan jika nilai kurang dari 60 maka hasilnya tidak lulus :
+
+![image](https://user-images.githubusercontent.com/81431392/115906714-bc4af280-a41c-11eb-8807-39a2d1d2b51b.png)
+
+8. Penggunaan operator switch untuk seleksi kondisi :
+
+![image](https://user-images.githubusercontent.com/81431392/115908432-046b1480-a41f-11eb-95b0-22be1ce6b233.png)
+
+contoh ketika input bilangan angka 3 maka hasilnya :
+
+![image](https://user-images.githubusercontent.com/81431392/115908533-25336a00-a41f-11eb-884c-c399adab21c8.png)
+
+9. Pembuatan Form Input :
+
+![image](https://user-images.githubusercontent.com/81431392/115910048-37160c80-a421-11eb-9e6b-e37ee4d0c27c.png)
+
+contoh ketika input angka 4 pada form BIL maka hasilnya :
+
+![image](https://user-images.githubusercontent.com/81431392/115910257-7a707b00-a421-11eb-8964-559b7de12131.png)
+
+dan contoh ketika input angka 7 pada form BIL maka hasilnya : 
+
+![image](https://user-images.githubusercontent.com/81431392/115910468-b6a3db80-a421-11eb-93d2-a19e1a7db3e3.png)
+
+10.
+
+
+
