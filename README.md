@@ -70,7 +70,26 @@ dan contoh ketika input angka 7 pada form BIL maka hasilnya :
 
 ![image](https://user-images.githubusercontent.com/81431392/115910468-b6a3db80-a421-11eb-93d2-a19e1a7db3e3.png)
 
-10.
+10. HTML DOM membuat daftar menu :
+
+![image](https://user-images.githubusercontent.com/81431392/116004822-6b243580-a5b9-11eb-9c09-cbaec1e350ca.png)
+
+contoh ketika checkBox di arahkan atau dipilih maka akan muncul total bayar dengan perhitungan otomatis : 
+
+![image](https://user-images.githubusercontent.com/81431392/116004915-bcccc000-a5b9-11eb-9ac6-59d7c8ebe8ea.png)
 
 
+
+Pertanyaan dan Tugas
+1. Buat script untuk melakukan validasi pada isian form : 
+
+![image](https://user-images.githubusercontent.com/81431392/116010717-9d439080-a5d5-11eb-9aa4-4e6219d0698b.png)
+
+untuk coddinganya seperti berikut ini :
+
+![image](https://user-images.githubusercontent.com/81431392/116010765-fca1a080-a5d5-11eb-9346-13a0e92575af.png)
+
+contoh ketika klik Sign Up tanpa mengisi data maka muncul Alert : 
+
+![image](https://user-images.githubusercontent.com/81431392/116010813-44c0c300-a5d6-11eb-9f5c-3e189f738315.png)
 
