@@ -1,0 +1,45 @@
+<html>
+<head>
+	<title>Validasi Form</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+
+	<script type="text/javascript">
+	function validasiForm() {
+		var nama = document.getElementById("nama").value;
+		var password = document.getElementById("password").value;
+		var email = document.getElementById("email").value;
+		if (nama != "" && email!="" && alamat !="") {
+			return true;
+		}else{
+			alert('harap isi data tidak boleh kosong !');
+		}
+	}
+</script>
+
+</head>
+<body>
+	<div class="container">
+		<center><h1>Form Register</h1></center>
+
+		<form action="#" method="POST" onSubmit="validasiForm()">
+			<fieldset > 
+			<p>
+				<label for="nama">Username : </label>
+				<input type="text" id="nama" name="nama" placeholder="Create new username">
+			</p>
+			<p>
+				<label for="password">Password : </label></b>
+				<input type="text" id="password" name="password" placeholder="Create new password">
+			</p>
+			
+				<p>
+				<label for="email">Email : </label>
+				<input type="text" id="email" name="email" placeholder="Create new email">
+			</p>
+		
+			<p><input type="submit" value="sign up"></p>
+		</form>
+		</fieldset>
+	</div>	
+</body>
+</html>
