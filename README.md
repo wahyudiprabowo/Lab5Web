@@ -70,7 +70,16 @@ dan contoh ketika input angka 7 pada form BIL maka hasilnya :
 
 ![image](https://user-images.githubusercontent.com/81431392/115910468-b6a3db80-a421-11eb-93d2-a19e1a7db3e3.png)
 
-10. HTML DOM membuat daftar menu :
+10. Pembuatan Form Button :
+
+![image](https://user-images.githubusercontent.com/81431392/116118061-cc0f4480-a671-11eb-80ed-55c799fff18d.png)
+
+contoh ketika di klik button latar belakang hijau maka hasilnya :
+
+![image](https://user-images.githubusercontent.com/81431392/116118233-f06b2100-a671-11eb-8eef-6470114f46e5.png)
+
+
+11. HTML DOM membuat daftar menu :
 
 ![image](https://user-images.githubusercontent.com/81431392/116004822-6b243580-a5b9-11eb-9c09-cbaec1e350ca.png)
 
